@@ -1,2 +1,2 @@
 {"total_transactions":0,"successfully_processed_transactions":0,"last_processed_timestamp":"1735063087595","transaction_in_batch":2}
-"2024/12/24 Opening\n    assets:bank:emergency:idfc      40000\n    equity:opening-balance      -40000\n2024/12/24 Opening balance for regular saving account.\n    assets:bank:savings:sbi      200000\n    equity:opening-balance      -200000\n"
+{"type":"Buffer","data":[]}
