@@ -1,2 +1,2 @@
-{"total_transactions":5,"transaction_in_batch":5,"last_pushed_timestamp":1735015195806}
-[{"timestamp":"1734939971391","accounts":{"debit":[{"account_label":"ASSETS:BANK:IDFC:EXPENSE","amount":20000}],"credit":[{"account_label":"EQUITY:OPENING-BALANCE","amount":20000}]},"description":"OPENING BALANCE MENTIONED","date":"2024/12/23","tags":["EXPENSE"]}]
+{"total_transactions":10,"transaction_in_batch":5,"last_pushed_timestamp":1735015195806,"process_timestamp":1735060438708}
+[null]
