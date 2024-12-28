@@ -1,2 +1,2 @@
-{"total_transactions":12,"process_timestamp":1735404225324,"process_datetime":"28/12/2024, 22:13:45","generate_report":false}
-[]
+{"total_transactions":13,"process_timestamp":1735404453660,"process_datetime":"28/12/2024, 22:17:33","generate_report":false}
+[{"timestamp":"1735404318273","accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":40}],"credit":[{"account_label":"assets:bank:expense:federal","amount":40}]},"description":"Purchased Hell energy drink.","date":"2024/12/28","tags":["purchased","energy"]}]
