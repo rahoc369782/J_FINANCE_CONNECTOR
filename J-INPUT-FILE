@@ -1,2 +1,2 @@
-{"total_transactions":35,"process_timestamp":1735835875757,"process_datetime":"02/01/2025, 22:07:55","generate_report":false}
-[{"timestamp":1735835875267,"accounts":{"debit":[{"account_label":"assets:bank:expense:federal","amount":53500}],"credit":[{"account_label":"assets:bank:income:icici:salary","amount":53500}]},"description":"Amount transfered from salary account to expense account for expenses","date":"2025/01/02"}]
+{"total_transactions":36,"process_timestamp":1735836228515,"process_datetime":"02/01/2025, 22:13:48","generate_report":false}
+[{"timestamp":1735836228028,"accounts":{"debit":[{"account_label":"expense:household:monthly","amount":20000}],"credit":[{"account_label":"assets:bank:expense:federal","amount":20000}]},"description":"Amount for Monthly household expense transfered from expense account","date":"2025/01/02"}]
