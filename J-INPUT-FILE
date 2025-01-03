@@ -1,2 +1,2 @@
-{"total_transactions":36,"process_timestamp":1735836228515,"process_datetime":"02/01/2025, 22:13:48","generate_report":false}
-[{"timestamp":1735836228028,"accounts":{"debit":[{"account_label":"expense:household:monthly","amount":20000}],"credit":[{"account_label":"assets:bank:expense:federal","amount":20000}]},"description":"Amount for Monthly household expense transfered from expense account","date":"2025/01/02"}]
+{"total_transactions":37,"process_timestamp":1735880247914,"process_datetime":"03/01/2025, 10:27:27","generate_report":false}
+[{"timestamp":1735880247402,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":25}],"credit":[{"account_label":"assets:bank:expense:federal","amount":25}]},"description":"Purchase breakfast at office canteen.","date":"2025/01/03"}]
