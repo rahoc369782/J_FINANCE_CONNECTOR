@@ -1,2 +1,2 @@
-{"total_transactions":83,"process_timestamp":1736998502781,"process_datetime":"16/01/2025, 09:05:02","generate_report":false}
-[{"timestamp":1736956816746,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":30}],"credit":[{"account_label":"assets:bank:exfederal","amount":30}]},"description":"Purchase snack at office","date":"2025/01/15"},{"timestamp":1736998502370,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":30}],"credit":[{"account_label":"assets:cash:personal","amount":30}]},"description":"Purchase breakfast at office canteen.","date":"2025/01/16"}]
+{"total_transactions":84,"process_timestamp":1737067708350,"process_datetime":"17/01/2025, 04:18:28","generate_report":false}
+[{"timestamp":1737067707703,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:cash:personal","amount":60}]},"description":"Purchased Hell energy drink","date":"2025/01/17"}]
