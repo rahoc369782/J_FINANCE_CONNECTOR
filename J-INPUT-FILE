@@ -1,2 +1,2 @@
-{"total_transactions":85,"process_timestamp":1737176645520,"process_datetime":"18/01/2025, 10:34:05","generate_report":false}
-[{"timestamp":1737176644876,"accounts":{"debit":[{"account_label":"expense:donation","amount":70}],"credit":[{"account_label":"assets:cash:personal","amount":70}]},"description":"Donation to random person.","date":"2025/01/17"}]
+{"total_transactions":86,"process_timestamp":1737176713601,"process_datetime":"18/01/2025, 10:35:13","generate_report":false}
+[{"timestamp":1737176644876,"accounts":{"debit":[{"account_label":"expense:donation","amount":70}],"credit":[{"account_label":"assets:cash:personal","amount":70}]},"description":"Donation to random person.","date":"2025/01/17"},{"timestamp":1737176713243,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":180}],"credit":[{"account_label":"assets:cash:personal","amount":180}]},"description":"Macdonalds visit for snacks","date":"2025/01/17"}]
