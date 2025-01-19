@@ -1,2 +1,2 @@
-{"total_transactions":87,"process_timestamp":1737221575897,"process_datetime":"18/01/2025, 23:02:55","generate_report":false}
-[{"timestamp":1737221575244,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:cash:personal","amount":60}]},"description":"Purchase Hell energy drink","date":"2025/01/18"}]
+{"total_transactions":88,"process_timestamp":1737266939393,"process_datetime":"19/01/2025, 11:38:59","generate_report":false}
+[{"timestamp":1737266938820,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":40}],"credit":[{"account_label":"assets:cash:personal","amount":40}]},"description":"Purchase food while walking","date":"2025/01/19"}]
