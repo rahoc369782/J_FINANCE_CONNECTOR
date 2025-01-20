@@ -1,2 +1,2 @@
-{"total_transactions":89,"process_timestamp":1737326651946,"process_datetime":"20/01/2025, 04:14:11","generate_report":false}
-[{"timestamp":1737326651243,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":50}],"credit":[{"account_label":"assets:cash:personal","amount":50}]},"description":"Purchase snacks","date":"2025/01/19"}]
+{"total_transactions":90,"process_timestamp":1737348623333,"process_datetime":"20/01/2025, 10:20:23","generate_report":false}
+[{"timestamp":1737348622744,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":30}],"credit":[{"account_label":"assets:cash:personal","amount":30}]},"description":"Purchase breakfast at office canteen.","date":"2025/01/20"}]
