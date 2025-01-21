@@ -1,2 +1,2 @@
-{"total_transactions":94,"process_timestamp":1737464770822,"process_datetime":"21/01/2025, 18:36:10","generate_report":false}
-[{"timestamp":1737464770179,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":250}],"credit":[{"account_label":"assets:cash:personal","amount":250}]},"description":"liability for friends money which was paid for food bill","date":"2025/01/21"}]
+{"total_transactions":95,"process_timestamp":1737476960907,"process_datetime":"21/01/2025, 21:59:20","generate_report":false}
+[{"timestamp":1737476960153,"accounts":{"debit":[{"account_label":"expense:donation","amount":3000}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":3000}]},"description":"Donation to societal purpose","date":"2025/01/21"}]
