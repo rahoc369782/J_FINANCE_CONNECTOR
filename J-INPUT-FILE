@@ -1,2 +1,2 @@
-{"total_transactions":96,"process_timestamp":1737499900922,"process_datetime":"22/01/2025, 04:21:40","generate_report":false}
-[{"timestamp":1737499900324,"accounts":{"debit":[{"account_label":"expense:personal:lifestyle:clothes","amount":1300}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":1300}]},"description":"Purchase tshirts and shirt for self","date":"2025/01/20"}]
+{"total_transactions":97,"process_timestamp":1737614764758,"process_datetime":"23/01/2025, 12:16:04","generate_report":false}
+[{"timestamp":1737614764049,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":160}],"credit":[{"account_label":"assets:cash:personal","amount":160}]},"description":"Purchase energy drink , waterbottle in leave day","date":"2025/01/22"}]
