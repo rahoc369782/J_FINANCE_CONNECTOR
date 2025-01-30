@@ -1,2 +1,2 @@
-{"total_transactions":113,"process_timestamp":1738153336595,"process_datetime":"29/01/2025, 17:52:16","generate_report":false}
-[{"timestamp":1738153335964,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":80}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":80}]},"description":"Purchase lunch at office","date":"2025/01/29"}]
+{"total_transactions":114,"process_timestamp":1738202906491,"process_datetime":"30/01/2025, 07:38:26","generate_report":false}
+[{"timestamp":1738202905900,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":40}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":40}]},"description":"Purchase snacks ","date":"2025/01/29"}]
