@@ -1,2 +1,2 @@
-{"total_transactions":129,"process_timestamp":1738649232800,"process_datetime":"04/02/2025, 11:37:12","generate_report":false}
-[{"timestamp":1738649232394,"accounts":{"debit":[{"account_label":"expense:medical","amount":3200}],"credit":[{"account_label":"assets:bank:inicici","amount":3200}]},"description":"Purchase health supplement","date":"2025/02/04"}]
+{"total_transactions":130,"process_timestamp":1738667980627,"process_datetime":"04/02/2025, 16:49:40","generate_report":false}
+[{"timestamp":1738667980052,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:bank:exfederal","amount":60}]},"description":"Purchase Hell energy drink","date":"2025/02/04"}]
