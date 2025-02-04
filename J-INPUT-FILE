@@ -1,2 +1,2 @@
-{"total_transactions":128,"process_timestamp":1738645442673,"process_datetime":"04/02/2025, 10:34:02","generate_report":false}
-[{"timestamp":1738645441979,"accounts":{"debit":[{"account_label":"expense:donation","amount":3000}],"credit":[{"account_label":"assets:bank:exfederal","amount":3000}]},"description":"Monthly amount sent to mummy's sister","date":"2025/02/03"}]
+{"total_transactions":129,"process_timestamp":1738649232800,"process_datetime":"04/02/2025, 11:37:12","generate_report":false}
+[{"timestamp":1738649232394,"accounts":{"debit":[{"account_label":"expense:medical","amount":3200}],"credit":[{"account_label":"assets:bank:inicici","amount":3200}]},"description":"Purchase health supplement","date":"2025/02/04"}]
