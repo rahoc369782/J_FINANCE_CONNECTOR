@@ -1,2 +1,2 @@
-{"total_transactions":171,"process_timestamp":1740244460766,"process_datetime":"22/02/2025, 22:44:20","generate_report":false}
-[{"timestamp":1740244460200,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:bank:exfederal","amount":60}]},"description":"Purchase energy drink","date":"2025/02/22"}]
+{"total_transactions":172,"process_timestamp":1740244524968,"process_datetime":"22/02/2025, 22:45:24","generate_report":false}
+[{"timestamp":1740244460200,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:bank:exfederal","amount":60}]},"description":"Purchase energy drink","date":"2025/02/22"},{"timestamp":1740244524341,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":20}],"credit":[{"account_label":"assets:bank:inicici","amount":20}]},"description":"Purchase snacks","date":"2025/02/22"}]
