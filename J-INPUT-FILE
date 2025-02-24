@@ -1,2 +1,2 @@
-{"total_transactions":172,"process_timestamp":1740244524968,"process_datetime":"22/02/2025, 22:45:24","generate_report":false}
-[{"timestamp":1740244460200,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:bank:exfederal","amount":60}]},"description":"Purchase energy drink","date":"2025/02/22"},{"timestamp":1740244524341,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":20}],"credit":[{"account_label":"assets:bank:inicici","amount":20}]},"description":"Purchase snacks","date":"2025/02/22"}]
+{"total_transactions":173,"process_timestamp":1740373809668,"process_datetime":"24/02/2025, 10:40:09","generate_report":false}
+[{"timestamp":1740373809155,"accounts":{"debit":[{"account_label":"expense:personal:lifestyle:shoes","amount":700}],"credit":[{"account_label":"assets:bank:inicici","amount":700}]},"description":"Purchase footwear for family","date":"2025/02/23"}]
