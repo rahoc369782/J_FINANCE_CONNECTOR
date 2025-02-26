@@ -1,2 +1,2 @@
-{"total_transactions":181,"process_timestamp":1740527813950,"process_datetime":"26/02/2025, 05:26:53","generate_report":false}
-[{"timestamp":1740527813207,"accounts":{"debit":[{"account_label":"expense:personal:office:drinks","amount":60}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":60}]},"description":"Purchase sugarcane juice","date":"2025/02/25"}]
+{"total_transactions":182,"process_timestamp":1740542469706,"process_datetime":"26/02/2025, 09:31:09","generate_report":false}
+[{"timestamp":1740542468937,"accounts":{"debit":[{"account_label":"expense:groceries","amount":1320}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":1320}]},"description":"Purchase drinks and coffee","date":"2025/02/26"}]
