@@ -1,2 +1,2 @@
-{"total_transactions":211,"process_timestamp":1741370295685,"process_datetime":"07/03/2025, 23:28:15","generate_report":false}
-[{"timestamp":1741370295053,"accounts":{"debit":[{"account_label":"liabilities:creditors:salim","amount":9870}],"credit":[{"account_label":"assets:bank:inicici","amount":9870}]},"description":"Emi paid to salim for laptop","date":"2025/03/04"}]
+{"total_transactions":212,"process_timestamp":1741370331837,"process_datetime":"07/03/2025, 23:28:51","generate_report":false}
+[{"timestamp":1741370295053,"accounts":{"debit":[{"account_label":"liabilities:creditors:salim","amount":9870}],"credit":[{"account_label":"assets:bank:inicici","amount":9870}]},"description":"Emi paid to salim for laptop","date":"2025/03/04"},{"timestamp":1741370331356,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":40}],"credit":[{"account_label":"assets:bank:exfederal","amount":40}]},"description":"Purchase food ","date":"2025/03/07"}]
