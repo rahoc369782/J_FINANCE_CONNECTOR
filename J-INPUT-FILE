@@ -1,2 +1,2 @@
-{"total_transactions":228,"process_timestamp":1742230597991,"process_datetime":"17/03/2025, 22:26:37","generate_report":false}
-[{"timestamp":1742230597449,"accounts":{"debit":[{"account_label":"assets:bank:emidfc","amount":30000}],"credit":[{"account_label":"assets:bank:reserve:union:personal","amount":30000}]},"description":"Fund transfer in emergency bank account","date":"2025/03/17"}]
+{"total_transactions":229,"process_timestamp":1742337904523,"process_datetime":"19/03/2025, 04:15:04","generate_report":false}
+[{"timestamp":1742337903903,"accounts":{"debit":[{"account_label":"expense:personal:transport","amount":2000}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":2000}]},"description":"Money sent to mohan","date":"2025/03/18"}]
