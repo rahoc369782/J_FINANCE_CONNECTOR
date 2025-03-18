@@ -1,2 +1,2 @@
-{"total_transactions":229,"process_timestamp":1742337904523,"process_datetime":"19/03/2025, 04:15:04","generate_report":false}
-[{"timestamp":1742337903903,"accounts":{"debit":[{"account_label":"expense:personal:transport","amount":2000}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":2000}]},"description":"Money sent to mohan","date":"2025/03/18"}]
+{"total_transactions":230,"process_timestamp":1742337944565,"process_datetime":"19/03/2025, 04:15:44","generate_report":false}
+[{"timestamp":1742337903903,"accounts":{"debit":[{"account_label":"expense:personal:transport","amount":2000}],"credit":[{"account_label":"assets:bank:ivaxis:mf","amount":2000}]},"description":"Money sent to mohan","date":"2025/03/18"},{"timestamp":1742337944236,"accounts":{"debit":[{"account_label":"expense:personal:drinks","amount":60}],"credit":[{"account_label":"assets:bank:exfederal","amount":60}]},"description":"Purchase energy drink","date":"2025/03/18"}]
