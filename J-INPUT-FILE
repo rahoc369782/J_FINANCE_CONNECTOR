@@ -1,2 +1,2 @@
-{"total_transactions":265,"process_timestamp":1743312720314,"process_datetime":"30/03/2025, 11:02:00","generate_report":false}
-[{"timestamp":1743312719918,"accounts":{"debit":[{"account_label":"known:bal:household","amount":49500}],"credit":[{"account_label":"equity:opening-balance","amount":49500}]},"description":"Known bal update","date":"2025/03/30"}]
+{"total_transactions":266,"process_timestamp":1743638143918,"process_datetime":"03/04/2025, 05:25:43","generate_report":false}
+[{"timestamp":1743638143295,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":80}],"credit":[{"account_label":"assets:bank:exfederal","amount":80}]},"description":"Purchase office breakfast and coffe","date":"2025/04/02"}]
