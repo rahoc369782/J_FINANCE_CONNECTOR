@@ -1,2 +1,2 @@
-{"total_transactions":268,"process_timestamp":1743940742980,"process_datetime":"06/04/2025, 17:29:02","generate_report":false}
-[{"timestamp":1743940709463,"accounts":{"debit":[{"account_label":"expense:groceries","amount":250}],"credit":[{"account_label":"assets:bank:exfederal","amount":250}]},"description":"Purchase of groceries","date":"2025/04/05"},{"timestamp":1743940742613,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":250}],"credit":[{"account_label":"assets:bank:exfederal","amount":250}]},"description":"office food expense","date":"2025/04/04"}]
+{"total_transactions":269,"process_timestamp":1744476815361,"process_datetime":"12/04/2025, 22:23:35","generate_report":false}
+[{"timestamp":1744476814441,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":200}],"credit":[{"account_label":"assets:bank:exfederal","amount":200}]},"description":"Purchase groceries and food","date":"2025/04/10"}]
