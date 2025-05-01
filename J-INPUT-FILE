@@ -1,2 +1,2 @@
-{"total_transactions":270,"process_timestamp":1744476839928,"process_datetime":"12/04/2025, 22:23:59","generate_report":false}
-[{"timestamp":1744476814441,"accounts":{"debit":[{"account_label":"expense:personal:food","amount":200}],"credit":[{"account_label":"assets:bank:exfederal","amount":200}]},"description":"Purchase groceries and food","date":"2025/04/10"},{"timestamp":1744476839628,"accounts":{"debit":[{"account_label":"expense:personal:office:food","amount":300}],"credit":[{"account_label":"assets:bank:exfederal","amount":300}]},"description":"Purchase food and groceries","date":"2025/04/11"}]
+{"total_transactions":271,"process_timestamp":1746076485537,"process_datetime":"01/05/2025, 10:44:45","generate_report":false}
+[{"timestamp":1746076484855,"accounts":{"debit":[{"account_label":"assets:bank:inicici","amount":105000}],"credit":[{"account_label":"income:source:salary","amount":105000}]},"description":"Salary received","date":"2025/05/01"}]
